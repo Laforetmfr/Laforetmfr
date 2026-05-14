@@ -37,11 +37,6 @@ Projects born from curiosity, ideas, or a desire to explore.
 
 Work completed as part of my studies at UniLaSalle Amiens.
 
-GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laforetmfr&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laforetmfr&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
 <br/><br/>
 
 <h1 align="center" id="french-version">Bonjour, moi c'est Mathis </h1>
