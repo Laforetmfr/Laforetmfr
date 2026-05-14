@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Mathis 👋</h1>
 <p align="center">
-  4th-year engineering student · Computer Science & Networks · UniLaSalle Amiens
+  4th-year engineering student ·  Networks, Computer Science & Internet of Things · UniLaSalle Amiens
 </p>
 <p align="center">
   <a href="mailto:laforet.mathis.6@gmail.com.com">
@@ -46,7 +46,7 @@ GitHub Stats
 
 <h1 align="center" id="french-version">Salut, moi c'est Mathis 👋</h1>
 <p align="center">
-  Étudiant ingénieur en 4ème année · Informatique & Réseaux · UniLaSalle Amiens
+  Étudiant ingénieur en 4ème année · Réseaux Informatique & Objets Communiquants · UniLaSalle Amiens
 </p>
 <p align="center">
   <a href="#hey-im-mathis-">🇬🇧 Back to English version</a>
