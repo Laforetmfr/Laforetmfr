@@ -25,23 +25,17 @@ Networking    TCP/IP · Cisco · VLAN · Wireshark
 Tools         Git · GitHub · Linux · VS Code · Docker (learning)
 
 Projects
-💼 Professional
+💼 Professional (Start with "pro-...")
 
 Projects completed during internships or professional missions.
 
-RepositoryDescriptionTech📁 repo-pro-1Short description of the projectPython📁 repo-pro-2Short description of the projectJavaScript
-
-🧑‍💻 Personal
+🧑‍💻 Personal (Start with "perso-...")
 
 Projects born from curiosity, ideas, or a desire to explore.
 
-RepositoryDescriptionTech📁 repo-perso-1Short description of the projectPython📁 repo-perso-2Short description of the projectJavaScript
-
-🎓 Academic
+🎓 Academic (Start with "acad-...")
 
 Work completed as part of my studies at UniLaSalle Amiens.
-
-RepositoryDescriptionCourse / Year📁 repo-acad-1Short description of the projectAlgorithms · 3rd year📁 repo-acad-2Short description of the projectNetworking · 4th year
 
 GitHub Stats
 <p align="center">
@@ -69,23 +63,17 @@ Réseaux       TCP/IP · Cisco · VLAN · Wireshark
 Outils        Git · GitHub · Linux · VS Code · Docker (en cours)
 
 Projets
-💼 Professionnel
+💼 Professionnel (Commence par "pro-...")
 
 Projets réalisés en stage, mission ou contexte professionnel.
 
-DépôtDescriptionTech📁 repo-pro-1Description courte du projetPython📁 repo-pro-2Description courte du projetJavaScript
-
-🧑‍💻 Personnel
+🧑‍💻 Personnel (Commence par "perso-...")
 
 Projets nés d'une curiosité, d'une idée ou d'une envie d'explorer.
 
-DépôtDescriptionTech📁 repo-perso-1Description courte du projetPython📁 repo-perso-2Description courte du projetJavaScript
-
-🎓 Académique
+🎓 Académique (Commence par "acad-...")
 
 Travaux réalisés dans le cadre de mes études à UniLaSalle Amiens.
-
-DépôtDescriptionCours / Année📁 repo-acad-1Description courte du projetAlgorithmique · 3A📁 repo-acad-2Description courte du projetRéseaux · 4A
 
 <p align="center">
   <sub>Toujours en train d'apprendre · N'hésite pas à explorer les dépôts ou à me contacter</sub>
