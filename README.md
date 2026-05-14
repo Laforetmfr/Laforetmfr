@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mathis 👋</h1>
+<h1 align="center">Hi, I'm Mathis </h1>
 <p align="center">
   4th-year engineering student ·  Networks, Computer Science & Internet of Things · UniLaSalle Amiens
 </p>
@@ -44,7 +44,7 @@ GitHub Stats
 </p>
 <br/><br/>
 
-<h1 align="center" id="french-version">Salut, moi c'est Mathis 👋</h1>
+<h1 align="center" id="french-version">Bonjour, moi c'est Mathis </h1>
 <p align="center">
   Étudiant ingénieur en 4ème année · Réseaux Informatique & Objets Communiquants · UniLaSalle Amiens
 </p>
