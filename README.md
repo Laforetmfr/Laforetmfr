@@ -3,10 +3,10 @@
   4th-year engineering student · Computer Science & Networks · UniLaSalle Amiens
 </p>
 <p align="center">
-  <a href="mailto:ton@email.com">
+  <a href="mailto:laforet.mathis.6@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-contact-informational?style=flat&logo=gmail&logoColor=white&color=534AB7" />
   </a>
-  <a href="https://linkedin.com/in/ton-profil">
+  <a href="https:linkedin.com/in/mathis-laforet">
     <img src="https://img.shields.io/badge/LinkedIn-Mathis_Laforet-informational?style=flat&logo=linkedin&logoColor=white&color=0F6E56" />
   </a>
 </p>
