@@ -6,7 +6,7 @@
   <a href="mailto:laforet.mathis.6@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-contact-informational?style=flat&logo=gmail&logoColor=white&color=534AB7" />
   </a>
-  <a href="https:linkedin.com/in/mathis-laforet">
+  <a href="https:www.linkedin.com/in/mathis-laforet">
     <img src="https://img.shields.io/badge/LinkedIn-Mathis_Laforet-informational?style=flat&logo=linkedin&logoColor=white&color=0F6E56" />
   </a>
 </p>
